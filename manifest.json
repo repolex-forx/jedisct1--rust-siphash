@@ -45,7 +45,9 @@
           "githubUrl": "https://github.com/serde-rs/json",
           "source": "build_file:Cargo.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/db8172048a1c9bdef0dcec782d965c236161af13/chunk-001.nq.gz",
+      "dep": "dep/db8172048a1c9bdef0dcec782d965c236161af13.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
