@@ -24,6 +24,27 @@
       ],
       "ast": [
         "aggregate/ast/db8172048a1c9bdef0dcec782d965c236161af13/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/db8172048a1c9bdef0dcec782d965c236161af13.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "serde",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "serde",
+          "githubUrl": "https://github.com/serde-rs/serde",
+          "source": "build_file:Cargo.toml"
+        },
+        {
+          "packageName": "serde_json",
+          "ecosystem": "CARGO",
+          "version": "1.0",
+          "githubOrg": "serde-rs",
+          "githubRepo": "json",
+          "githubUrl": "https://github.com/serde-rs/json",
+          "source": "build_file:Cargo.toml"
+        }
       ]
     }
   ],
