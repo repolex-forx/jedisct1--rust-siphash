@@ -1,0 +1,32 @@
+{
+  "manifest_version": "1.0",
+  "org": "jedisct1",
+  "repo": "rust-siphash",
+  "versions": [
+    {
+      "commit": "db8172048a1c9bdef0dcec782d965c236161af13",
+      "parsed_at": "2026-11-22T04:44:44.707598+00:00",
+      "tag": "1.0.2",
+      "filetree": "filetree/db8172048a1c9bdef0dcec782d965c236161af13.nq.gz",
+      "blobs": [
+        "blob/125afacdb23a50bc1f5fb3db159fb0281ff8d291.nq.gz",
+        "blob/c11601fecaae21cc1795e1c9105bc5b0e4340150.nq.gz",
+        "blob/c5bf53073f2dc1c4604db2c8409789c20b233c1a.nq.gz",
+        "blob/14b8ac801a8a276e3ce5c02ed8c772974873c6a8.nq.gz",
+        "blob/e5146efc36c59f241742a1d93559299a0d7f461f.nq.gz",
+        "blob/f65e1ba0980f3eaf077c246e127990f7a350f82e.nq.gz",
+        "blob/e485ab4130a7098ff3ca6c9ca86568162689a50f.nq.gz",
+        "blob/b66177e36005087830f714ce95a64ded4e4d7f03.nq.gz",
+        "blob/a8f44fc5a49b82c2c1f1034a7f309bf277a51b4d.nq.gz",
+        "blob/ce9fde2e9548d100f4ed996bbd1eb5de9008748b.nq.gz",
+        "blob/6f973fbe147cc0cd7e12c5e39a3255417a42c40a.nq.gz",
+        "blob/017962a19b89de706758c2968f66e9d885f55f01.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
