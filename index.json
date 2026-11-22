@@ -1,0 +1,11 @@
+{
+  "org": "jedisct1",
+  "repo": "rust-siphash",
+  "versions": [
+    {
+      "commit": "db8172048a1c9bdef0dcec782d965c236161af13",
+      "tag": "1.0.2",
+      "parsed_at": "2026-11-22T04:51:31.505815+00:00"
+    }
+  ]
+}
